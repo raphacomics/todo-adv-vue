@@ -9,7 +9,7 @@ import { RouterLink } from 'vue-router';
             <div class="navbar-brand text-light">
                 Rapha Todo 2.0
             </div>
-            <div class="navbar-nav gap-3">
+            <div class="d-flex gap-3">
                 <div class="nav-item">
                     <RouterLink class="text-light" to="/">Home</RouterLink>
                 </div>
